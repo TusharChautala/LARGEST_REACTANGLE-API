@@ -1,0 +1,10 @@
+INFO:root:Received matrix: [[0]]
+ERROR:root:Error: name 'largest_rectangle' is not defined
+INFO:root:Received matrix: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+ERROR:root:Error: list index out of range
+INFO:root:Received matrix: [[0]]
+INFO:root:Result: (0, 1)
+INFO:root:Received matrix: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+ERROR:root:Error: list index out of range
+INFO:root:Received matrix: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+ERROR:root:Error: list index out of range
